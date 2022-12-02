@@ -4,9 +4,9 @@ A Vue 3 + Firebase Todo application.
 
 ## Stack
 
-Vue 3 (with vite)
-Daisy UI (Tailwind CSS)
-Firebase
+- Vue 3 (with vite)
+- Daisy UI (Tailwind CSS)
+- Firebase
 
 > ## Note: Requires [FireBase](https://firebase.google.com) account
 
